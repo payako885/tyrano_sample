@@ -27,7 +27,7 @@
 
 [cm]
 
-[bg storage=sleep.jpg time=500]
+[bg storage=bad.png time=500]
 
 あー、君は巨人を選んだのか。[l][r]
 はっきり言ってセンスってものがないな、君は。[1][r]
@@ -39,7 +39,7 @@
 
 *tag_tigers
 
-[bg storage=run.jpg time=500]
+[bg storage=bad.png time=500]
 
 [cm]
 
@@ -47,13 +47,13 @@
 はっきり言ってセンスってものがないな、君は。[1][r]
 もうちょっと勉強して出直してきな。[r]
 
-【 GOOD END 】[l][cm]
+【 BAD END 】[l][cm]
 
 [jump target=*start]
 
 *tag_baystars
 
-[bg storage=run.jpg time=500]
+[bg storage=bad.png time=500]
 
 [cm]
 
@@ -61,13 +61,13 @@
 はっきり言ってセンスってものがないな、君は。[1][r]
 もうちょっと勉強して出直してきな。[r]
 
-【 GOOD END 】[l][cm]
+【 BAD END 】[l][cm]
 
 [jump target=*start]
 
 *tag_curp
 
-[bg storage=run.jpg time=500]
+[bg storage=bad.png time=500]
 
 [cm]
 
@@ -75,13 +75,13 @@
 はっきり言ってセンスってものがないな、君は。[1][r]
 もうちょっと勉強して出直してきな。[r]
 
-【 GOOD END 】[l][cm]
+【 BAD END 】[l][cm]
 
 [jump target=*start]
 
 *tag_swallows
 
-[bg storage=run.jpg time=500]
+[bg storage=bad.png time=500]
 
 [cm]
 
@@ -89,13 +89,13 @@
 はっきり言ってセンスってものがないな、君は。[1][r]
 もうちょっと勉強して出直してきな。[r]
 
-【 GOOD END 】[l][cm]
+【 BAD END 】[l][cm]
 
 [jump target=*start]
 
 *tag_doragons
 
-[bg storage=run.jpg time=500]
+[bg storage=doragons.png time=500]
 
 [cm]
 
